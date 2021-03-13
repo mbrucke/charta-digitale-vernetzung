@@ -4,29 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "9e737bee67918042",
+        "id": "b183674dcea3da99",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Die Charta im Wortlaut.md",
+            "file": "Digitalisierung.md",
             "mode": "source"
           }
         },
-        "group": "3a3f75f7b70136b3"
+        "group": "84c8a3434165de7d"
       },
       {
-        "id": "b183674dcea3da99",
+        "id": "b37ce47d6ccd62d7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Die Charta im Wortlaut.md",
+            "file": "Digitalisierung.md",
             "mode": "preview"
           }
         },
-        "group": "3a3f75f7b70136b3"
+        "group": "84c8a3434165de7d"
+      },
+      {
+        "id": "37cf5caf7aff3887",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Digitalisierung.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": true,
+              "showAttachments": true,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": false,
+              "centerStrength": 0.225046970408643,
+              "repelStrength": 8.18459370596524,
+              "linkStrength": 0.833783466416158,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "84c8a3434165de7d"
       }
     ],
     "direction": "vertical"
@@ -82,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Die Charta im Wortlaut.md",
+                "file": "Digitalisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Die Charta im Wortlaut.md"
+                "file": "Digitalisierung.md"
               }
             }
           }
@@ -120,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Digitalisierung.md",
+    "Digitale Transformation.md",
+    "Digitalisiation.md",
+    "Digitization.md",
     "Die Charta im Wortlaut.md",
-    "Chancen.md",
-    "Verantwortung.md",
-    "personenbezogenen Daten.md",
-    "Verpflichtung.md",
-    "Daten.md",
-    "Teilhabe.md",
-    "Interoperabilität.md",
-    "Rahmenbedingungen.md",
-    "Kompetenz.md"
+    "Globalisierung.md",
+    "Gesellschaft.md",
+    "Vielfalt.md",
+    "Informations- und Kommunikationstechnologien.md",
+    "im Sinne der Gesellschaft.md"
   ]
 }

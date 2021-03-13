@@ -16,7 +16,7 @@ Wir verstehen die [[digitale Vernetzung]] – ihre Nutzung und Entwicklung – a
 
 ### 2. [[Wohlstand]]
 
-Wir sind überzeugt, dass sich die digitale Vernetzung im nächsten Jahrzehnt zu einer Grundlage des [[gesellschaftlichen Wohlstands]] entwickeln und die [[Lebensbedingungen]] der Menschen deutlich verbessern wird.
+Wir sind überzeugt, dass sich die digitale Vernetzung im nächsten Jahrzehnt zu einer Grundlage des [[gesellschaftlicher Wohlstand|gesellschaftlichen Wohlstands]] entwickeln und die [[Lebensbedingungen]] der Menschen deutlich verbessern wird.
 
 ### 3. [[Dialog]]
 
