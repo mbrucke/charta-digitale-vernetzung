@@ -6,7 +6,6 @@
       {
         "id": "b183674dcea3da99",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -31,12 +30,13 @@
       {
         "id": "37cf5caf7aff3887",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "localgraph",
           "state": {
             "file": "0_Die Charta im Wortlaut.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
@@ -52,12 +52,12 @@
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
-              "collapse-forces": false,
+              "collapse-forces": true,
               "centerStrength": 0.225046970408643,
               "repelStrength": 8.18459370596524,
               "linkStrength": 0.833783466416158,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 1.0000000000000002,
               "close": false
             }
           }
@@ -156,6 +156,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "0_Die Charta im Wortlaut.md",
     "Die Charta im Wortlaut.md",
     "Digitalisierung.md",
     "Digitale Transformation.md",
@@ -164,7 +165,6 @@
     "Globalisierung.md",
     "Gesellschaft.md",
     "Vielfalt.md",
-    "Informations- und Kommunikationstechnologien.md",
-    "im Sinne der Gesellschaft.md"
+    "Informations- und Kommunikationstechnologien.md"
   ]
 }
