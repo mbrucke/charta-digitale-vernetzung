@@ -6,14 +6,27 @@
       {
         "id": "9e737bee67918042",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Die Charta im Wortlaut.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "3a3f75f7b70136b3"
+      },
+      {
+        "id": "b183674dcea3da99",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Die Charta im Wortlaut.md",
+            "mode": "preview"
+          }
+        },
+        "group": "3a3f75f7b70136b3"
       }
     ],
     "direction": "vertical"
@@ -75,6 +88,27 @@
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ac85177afae465e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b47631b3c9af6a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Die Charta im Wortlaut.md"
               }
             }
           }
