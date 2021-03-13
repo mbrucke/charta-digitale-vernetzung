@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chancen.md",
+            "file": "Die Charta im Wortlaut.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chancen.md",
+            "file": "Die Charta im Wortlaut.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chancen.md",
+                "file": "Die Charta im Wortlaut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chancen.md"
+                "file": "Die Charta im Wortlaut.md"
               }
             }
           }
@@ -120,8 +120,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Chancen.md",
     "Die Charta im Wortlaut.md",
+    "Chancen.md",
     "Verantwortung.md",
     "personenbezogenen Daten.md",
     "Verpflichtung.md",
