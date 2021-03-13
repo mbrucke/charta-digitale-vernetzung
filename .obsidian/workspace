@@ -6,10 +6,11 @@
       {
         "id": "9e737bee67918042",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Die Charta im Wortlaut.md",
+            "file": "Chancen.md",
             "mode": "source"
           }
         },
@@ -18,11 +19,10 @@
       {
         "id": "b183674dcea3da99",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Die Charta im Wortlaut.md",
+            "file": "Chancen.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Die Charta im Wortlaut.md",
+                "file": "Chancen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Die Charta im Wortlaut.md"
+                "file": "Chancen.md"
               }
             }
           }
@@ -120,15 +120,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Chancen.md",
     "Die Charta im Wortlaut.md",
-    "digitale Gesellschaft.md",
-    "Fortschritt.md",
-    "Wachstum.md",
-    "Deutschland.md",
-    "Gesellschaft.md",
-    "Wirtschaft.md",
-    "digitale Technologien.md",
-    "Zukunft.md",
-    "Informations- und Kommunikationstechnologien.md"
+    "Verantwortung.md",
+    "personenbezogenen Daten.md",
+    "Verpflichtung.md",
+    "Daten.md",
+    "Teilhabe.md",
+    "Interoperabilität.md",
+    "Rahmenbedingungen.md",
+    "Kompetenz.md"
   ]
 }
