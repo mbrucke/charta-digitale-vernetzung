@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitalisierung.md",
+            "file": "0_Die Charta im Wortlaut.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digitalisierung.md",
+            "file": "0_Die Charta im Wortlaut.md",
             "mode": "preview"
           }
         },
@@ -34,7 +34,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Digitalisierung.md",
+            "file": "0_Die Charta im Wortlaut.md",
             "options": {
               "collapse-filter": false,
               "search": "",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digitalisierung.md",
+                "file": "0_Die Charta im Wortlaut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digitalisierung.md"
+                "file": "0_Die Charta im Wortlaut.md"
               }
             }
           }
@@ -156,11 +156,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Die Charta im Wortlaut.md",
     "Digitalisierung.md",
     "Digitale Transformation.md",
     "Digitalisiation.md",
     "Digitization.md",
-    "Die Charta im Wortlaut.md",
     "Globalisierung.md",
     "Gesellschaft.md",
     "Vielfalt.md",
