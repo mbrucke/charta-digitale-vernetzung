@@ -1,4 +1,6 @@
+.obsidian
 .obsidian/  # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
 .obsidian/Workspace  # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
 .trash/
 .DS_Store
+.gitignore
