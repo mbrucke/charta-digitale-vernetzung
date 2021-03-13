@@ -6,7 +6,7 @@ Es geht dabei nicht allein um die Nutzung von [[Internet]], [[Computer]] oder [[
 
 Deutschland kann nur dann wirtschaftlich erfolgreich bleiben, wenn wir die Potenziale[[ der digitalen Vernetzung ]]gezielt erschließen.
 
-Der Einsatz und die Förderung moderner[[ Informations- und Kommunikationstechnologien ]]eröffnen Chancen für neue, kreative Lösungen, für [[Wachstum]], [[Wettbewerb]] und [[Innovation]]. Diese müssen wir rechtzeitig und konsequent nutzen, um [[Arbeitsplätze]] zu erhalten und zu schaffen und die [[Wettbewerbsfähigkeit]] des [[Industriestandort|Industriestandorts]] Deutschland zu stärken. Die notwendige [[gesellschaftliche Akzeptanz ]]erfordert einen breiten [[Zukunftsdialog]] über alle gesellschaftlichen Ebenen hinweg.
+Der Einsatz und die Förderung moderner [[ Informations- und Kommunikationstechnologien ]]eröffnen Chancen für neue, kreative Lösungen, für [[Wachstum]], [[Wettbewerb]] und [[Innovation]]. Diese müssen wir rechtzeitig und konsequent nutzen, um [[Arbeitsplätze]] zu erhalten und zu schaffen und die [[Wettbewerbsfähigkeit]] des [[Industriestandort|Industriestandorts]] Deutschland zu stärken. Die notwendige [[gesellschaftliche Akzeptanz ]]erfordert einen breiten [[Zukunftsdialog]] über alle gesellschaftlichen Ebenen hinweg.
 
 #### Die nachfolgenden Grundsätze sind Ausdruck unseres gemeinsamen Verständnisses für den Weg in die digitale Gesellschaft:
 
