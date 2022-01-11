@@ -1,6 +1,10 @@
+.vault-stats
 .obsidian
-.obsidian/  # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
-.obsidian/Workspace  # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
 .trash/
 .DS_Store
 .gitignore
+.obsidian/config
+.obsidian/workspace
+*.json
+.obsidian/config
