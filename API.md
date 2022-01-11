@@ -1,0 +1,1 @@
+Programmierschnittstelle, über die Funktionsabläufe so abstrahiert werden, dass IKT-Systeme miteinander kommunizieren und Zugriffe und Abläufe erfolgen können, ohne den Code für Anwendungsprogramme direkt ändern zu müssen.

@@ -9,25 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0_Die Charta im Wortlaut.md",
+            "file": "API.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "c590a25dd54b7df0"
+        "group": "215d69bd427e9e95"
       },
       {
-        "id": "d80989248967a28b",
+        "id": "110e8e88c9918548",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0_Die Charta im Wortlaut.md",
+            "file": "API.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "c590a25dd54b7df0"
+        "group": "215d69bd427e9e95"
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_Die Charta im Wortlaut.md",
+                "file": "API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,38 +116,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_Die Charta im Wortlaut.md",
+                "file": "API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "82c0f31cfd39d8ca",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c6f9f7e2ddc73dd",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "46324f22f878eb2c",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "46bb8a0070b82e37",
@@ -170,17 +146,17 @@
     "direction": "horizontal",
     "width": 412.8333435058594
   },
-  "active": "d80989248967a28b",
+  "active": "f46de30b9687370f",
   "lastOpenFiles": [
+    "API.md",
+    "digitalen Vernetzung.md",
     "0_Die Charta im Wortlaut.md",
-    "Grundverständnis.md",
-    "Computer.md",
-    "101 Daily/2022-01-11.md",
-    "101 Daily/2021-11-11.md",
-    "101 Daily/2021-11-12.md",
-    "101 Daily/2021-11-13.md",
-    "Charta Digitale Vernetzung/0_Die Charta im Wortlaut.md",
-    "800 Wissen/Admin/Energie.md",
-    "Charta Digitale Vernetzung/Wachstum.md"
+    "digitale Veränderung.md",
+    "Interoperabilität.md",
+    "technische und organisatorische Maßnahmen.md",
+    "Daten.md",
+    "digitale Vernetzung.md",
+    "Globalisierung.md",
+    "Vielfalt.md"
   ]
 }

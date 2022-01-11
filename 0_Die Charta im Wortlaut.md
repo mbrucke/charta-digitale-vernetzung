@@ -16,38 +16,38 @@ Wir verstehen die [[digitale Vernetzung]] – ihre Nutzung und Entwicklung – a
 
 ### 2. [[Wohlstand]]
 
-Wir sind überzeugt, dass sich die digitale Vernetzung im nächsten Jahrzehnt zu einer Grundlage des [[gesellschaftlicher Wohlstand|gesellschaftlichen Wohlstands]] entwickeln und die [[Lebensbedingungen]] der Menschen deutlich verbessern wird.
+Wir sind überzeugt, dass sich die [[digitale Vernetzung]] im nächsten Jahrzehnt zu einer Grundlage des [[gesellschaftlicher Wohlstand|gesellschaftlichen Wohlstands]] entwickeln und die [[Lebensbedingungen]] der Menschen deutlich verbessern wird.
 
 ### 3. [[Dialog]]
 
-Wir suchen den [[offenen Dialog]] über alle Branchen und gesellschaftlichen Gruppen hinweg,  um gemeinsam den technologischen [[Fortschritt]] [[im Sinne der Gesellschaft]] voranzubringen.  Dabei wägen wir gesellschaftliche [[Chance|hancen]] und [[Risko|Risiken]] gegeneinander ab.
+Wir suchen den [[offenen Dialog]] über alle [[Branchen]] und [[gesellschaftliche Gruppen|gesellschaftlichen Gruppen]] hinweg,  um gemeinsam den technologischen [[Fortschritt]] im Sinne der [[Gesellschaft]] voranzubringen.  Dabei wägen wir gesellschaftliche [[Chance|Chancen]] und [[Risko|Risiken]] gegeneinander ab.
 
 ### 4. [[Verantwortung]]
 
-Wir sind uns der [[Verpflichtung]] bewusst, mit [[personenbezogenen Daten]] und Informationen datenschutzgerecht und sicher umzugehen. Dies gewährleisten wir durch effektive technische und organisatorische Maßnahmen zum Schutz vor unberechtigtem Zugriff und missbräuchlicher Verwendung. Wir sehen ein einheitliches europäisches Datenschutzrecht als wichtige Rahmenbedingung. Eine weitere internationale Harmonisierung rechtlicher Grundlagen muss zügig angegangen werden.
+Wir sind uns der [[Verpflichtung]] bewusst, mit [[personenbezogene Daten|personenbezogenen Daten]] und [[Informationen]] [[datenschutzgerecht]] und [[sicher]] umzugehen. Dies gewährleisten wir durch effektive [[technische und organisatorische Maßnahmen]] zum Schutz vor unberechtigtem [[Zugriff]] und [[missbräuchliche Verwendung|missbräuchlicher Verwendung]]. Wir sehen ein einheitliches [[europäisches Datenschutzrecht]] als wichtige [[Rahmenbedingung]]. Eine weitere [[internationale Harmonisierung]] [[rechtliche Grundlagen|rechtlicher Grundlagen]] muss zügig angegangen werden.
 
 ### 5. [[Daten]]
 
-Wir wollen die aus der digitalen Vernetzung generierte große Menge und Vielfalt an Daten  im Sinne von Chancen und Nutzen für unsere Gesellschaft und für das Individuum stärker  nutzbar machen. Wir verstehen es als gemeinsame Aufgabe von Wirtschaft, Politik,  Wissenschaft und Gesellschaft, hierfür einen geeigneten Rahmen zu setzen.
+Wir wollen die aus der [[digitale Vernetzung|digitalen Vernetzung]] generierte große Menge und Vielfalt an [[Daten]]  im Sinne von [[Chancen]] und Nutzen für unsere Gesellschaft und für das [[Individuum]] stärker  nutzbar machen. Wir verstehen es als gemeinsame Aufgabe von [[Wirtschaft]], [[Politik]],  [[Wissenschaft]] und [[Gesellschaft]], hierfür einen geeigneten Rahmen zu setzen.
 
 ### 6. [[Teilhabe]]
 
-Wir sehen den allgemein verfügbaren Zugang zu modernen Breitbandnetzen als Grundvoraussetzung für eine diskriminierungsfreie Teilhabe an den Vorteilen der digitalen Vernetzung. Bildung und Medienkompetenz sowie gezielte gemeinsame Forschungsanstrengungen staatlicher und nicht staatlicher Institutionen sind weitere Schlüssel zu einer zukünftig digital vernetzten Gesellschaft.
+Wir sehen den allgemein verfügbaren Zugang zu modernen [[Breitbandnetze |Breitbandnetzen]] als Grundvoraussetzung für eine diskriminierungsfreie Teilhabe an den Vorteilen der [[digitalen Vernetzung]]. [[Bildung]] und[[ Medienkompetenz]] sowie gezielte gemeinsame [[Forschung]]sanstrengungen staatlicher und nicht staatlicher Institutionen sind weitere Schlüssel zu einer zukünftig [[digital vernetzte Gesellschaft|digital vernetzten Gesellschaft]].
 
 ### 7. [[Interoperabilität]]
 
 Wir unterstützen die zügige Entwicklung und Anwendung von offenen, internationalen 
-Standards und Normen für interoperable und globale Lösungen.
+[[Standards]] und [[Normen]] für [[Interoperabilität|interoperable]] und globale Lösungen.
 
 ### 8. [[Rahmenbedingungen]]
 
-Wir begreifen in erster Linie die Menschen und die Unternehmen als treibende Kräfte der  digitalen Veränderung. Damit die Gesellschaft von diesen Kräften profitiert, sind stabile  rechtliche und investitionsfreundliche Rahmenbedingungen erforderlich.
+Wir begreifen in erster Linie die [[Menschen]] und die [[Unternehmen]] als treibende Kräfte der  [[digitale Veränderung|digitalen Veränderung]]. Damit die [[Gesellschaft]] von diesen Kräften profitiert, sind stabile  rechtliche und investitionsfreundliche [[Rahmenbedingungen]] erforderlich.
 
 ### 9. [[Kompetenz]]
 
-Wir wollen dem Fachkräftemangel vorbeugen und neue Kompetenzen fördern, indem wir dazu beitragen, die Vermittlung erforderlicher neuer fach- und branchenübergreifender Qualifikationen zur Planung, zur Realisierung und zum Betrieb digital vernetzter Anwendungen und Systeme in die Aus- und Weiterbildung zu integrieren.
+Wir wollen dem [[Fachkräftemangel]] vorbeugen und neue [[Kompetenzen]] fördern, indem wir dazu beitragen, die Vermittlung erforderlicher neuer fach- und branchenübergreifender [[Qualifikationen]] zur Planung, zur Realisierung und zum Betrieb digital vernetzter Anwendungen und Systeme in die [[Aus- und Weiterbildung]] zu integrieren.
 
 ### 10. [[Freiheit]]
 
-Die digitale Vernetzung soll der Freiheit und dem Wohlstand der Gesellschaft dienen.  
-Gemeinsam wollen wir dazu beitragen, Deutschland zukunftsgerecht zu gestalten.
+Die [[digitale Vernetzung]] soll der [[Freiheit]] und dem [[Wohlstand]] der [[Gesellschaft]] dienen.  
+Gemeinsam wollen wir dazu beitragen, [[Deutschland]] [[Zukunft|zukunftsgerecht]] zu gestalten.
